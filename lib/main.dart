@@ -67,7 +67,7 @@ class MiCasaState extends State<MiCasa> with SingleTickerProviderStateMixin {
               icon: Icon(Icons.favorite),
             ),
             Tab(
-              icon: Icon(Icons.Icons.audiotrack_sharp),
+              icon: Icon(Icons.audiotrack_sharp),
             ),
           ],
           // setup the controller
