@@ -38,7 +38,7 @@ class MiCasaState extends State<MiCasa> with SingleTickerProviderStateMixin {
     return Scaffold(
       // Appbar
       appBar: AppBar(
-        title: Text("Uso de la barra de navegación inferior"),
+        title: Text("barra de navegacion Villegas"),
         backgroundColor: Colors.blue,
       ),
       // Set the TabBar view as the body of the Scaffold
