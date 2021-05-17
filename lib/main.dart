@@ -61,13 +61,13 @@ class MiCasaState extends State<MiCasa> with SingleTickerProviderStateMixin {
           tabs: <Tab>[
             Tab(
               // set icon to the tab
+              icon: Icon(Icons.airplanemode_active),
+            ),
+            Tab(
               icon: Icon(Icons.favorite),
             ),
             Tab(
-              icon: Icon(Icons.adb),
-            ),
-            Tab(
-              icon: Icon(Icons.airport_shuttle),
+              icon: Icon(Icons.Icons.audiotrack_sharp),
             ),
           ],
           // setup the controller
